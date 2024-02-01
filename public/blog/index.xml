@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Journal d&#39;un Homme-Poussière</title>
+    <link>https://tasmant.xyz/blog/</link>
+    <description>Recent content in Blogs on Journal d&#39;un Homme-Poussière</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <lastBuildDate>Thu, 01 Feb 2024 22:43:58 +0100</lastBuildDate>
+    <atom:link href="https://tasmant.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>https://tasmant.xyz/my-new-post/</link>
+      <pubDate>Thu, 01 Feb 2024 22:43:58 +0100</pubDate>
+      <guid>https://tasmant.xyz/my-new-post/</guid>
+      <description>This is a page about »My New Post«.</description>
+    </item>
+  </channel>
+</rss>

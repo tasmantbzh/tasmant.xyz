@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal d&#39;un Homme-Poussière</title>
+    <link>https://tasmant.xyz/</link>
+    <description>Recent content on Journal d&#39;un Homme-Poussière</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <lastBuildDate>Thu, 01 Feb 2024 22:43:58 +0100</lastBuildDate>
+    <atom:link href="https://tasmant.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>https://tasmant.xyz/my-new-post/</link>
+      <pubDate>Thu, 01 Feb 2024 22:43:58 +0100</pubDate>
+      <guid>https://tasmant.xyz/my-new-post/</guid>
+      <description>This is a page about »My New Post«.</description>
+    </item>
+    <item>
+      <title>Bear 🐻</title>
+      <link>https://tasmant.xyz/bear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tasmant.xyz/bear/</guid>
+      <description>Bear Website: https://bearblog.dev&#xA;There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.&#xA;Bear is all you need to build a fantastic and optimized site or blog. It works perfectly on any viewing device. All you need to focus on is writing good content.&#xA;Bear makes it simple to publish content online and grow an audience while keeping pages tiny, fast, and optimized for search engines.</description>
+    </item>
+  </channel>
+</rss>
