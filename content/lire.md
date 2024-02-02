@@ -13,4 +13,4 @@ Si je compte suivre à peu près l'ordre chronologique de cet ensemble, je n'hé
 
 *Des compagnons, voilà ce que cherche le créateur, des moissonneurs qui moissonnent avec lui : car chez lui tout est mûr pour la moisson. - Friedrich Nietzsche*
 
-![](/HowToReadABook.jpg)
+![Infographie](/HowToReadABook.jpg)
